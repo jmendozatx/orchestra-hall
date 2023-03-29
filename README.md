@@ -1,4 +1,4 @@
-# arkane-digital
+# orchestra-hall
 
 ## Project setup
 ```
